@@ -1,12 +1,7 @@
 👋 Hi, I'm Chaitanya
-🚀 Full-Stack Web Developer | Java Enthusiast | Problem Solver
-
-I'm a passionate developer with a strong foundation in Java, Web Technologies, and Database Systems. 
-I enjoy building complete web applications from the ground up using React, Node.js, Express, Django, and SQL. 
-Whether it's front-end design or back-end logic, I love taking on challenges that push my limits and sharpen my skills.
+A passionate developer currently in the final year of my B.Tech. I enjoy working across the full stack and exploring Data Analytics and AI Engineering. 
 
 🛠️ Tech Stack
-
 Languages: Java, JavaScript, Python, SQL
 Front-End: HTML, CSS, JavaScript, React.js, Tailwind CSS
 Back-End: Node.js, Express.js, Django
@@ -16,10 +11,10 @@ Platforms: macOS, Linux
 📂 Featured Projects
 
 💰 Personal Finance Tracker – Track your income/expenses with a sleek Flask app
-🧠 Online Quiz System – JSP-based full-stack quiz app with login and result tracking
-🛒 E-Commerce Website – Complete MERN-stack shopping experience with admin panel
-🎓 Student Management System – Manage student records, grades, and analytics
-<!---
-somadhichaitanya/somadhichaitanya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🧠 Stock Portfolio Tracker : Node.js, Express, MySQL — A complete system to track stock investments with authentication, CRUD operations, and a dynamic dashboard.
+
+📈 Current Focus & Goals
+- Mastering Data Analytics (Python, Pandas, SQL)
+- Building ML mini-projects
+- Exploring Cloud, AI engineering, automation
+- Preparing for roles like Data Analyst, AI/ML Engineer, Full-Stack Developer
